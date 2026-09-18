@@ -465,23 +465,6 @@ This makes the project easier to review, reproduce, and publish on GitHub.
 
 ---
 
-## 🔐 Ethical Considerations
-
-This project was conducted strictly for **educational and authorized cybersecurity training purposes**.
-
-The reconnaissance activities were limited to practice/laboratory targets. No attempt was made to:
-
-* Access unauthorized systems
-* Obtain private credentials
-* Attack external infrastructure
-* Exploit vulnerabilities
-* Conduct intrusive scanning
-* Interact with real users or employees
-
-The purpose of the exercise was to understand how publicly available information can be collected and how OSINT can contribute to cybersecurity reconnaissance.
-
----
-
 ## ✅ Project Status
 
 **Status:** Completed ✅
@@ -500,11 +483,20 @@ The purpose of the exercise was to understand how publicly available information
 
 ---
 
+## 🔐 Ethical Considerations
 
+This project was conducted strictly for **educational and authorized cybersecurity training purposes**.
 
-### ⚠️ Ethical Notice
+The reconnaissance activities were limited to practice/laboratory targets. No attempt was made to:
 
-This project is intended strictly for **educational purposes and authorized laboratory environments**. Only domains, systems, and information that I am authorized to examine are used for testing.
+* Access unauthorized systems
+* Obtain private credentials
+* Attack external infrastructure
+* Exploit vulnerabilities
+* Conduct intrusive scanning
+* Interact with real users or employees
+
+The purpose of the exercise was to understand how publicly available information can be collected and how OSINT can contribute to cybersecurity reconnaissance
 
 ## 🚀 Conclusion
 
@@ -515,4 +507,12 @@ The project demonstrated how Python can be used to automate basic information-ga
 This project forms the foundation for subsequent cybersecurity internship tasks involving security awareness, detection, analysis, and controlled security simulations.
 
 
+ # 👤 Author
+  Atemlefac Nkafu Bechem
+  
+  Cybersecurity Engineer
 
+LinkedIn: https://www.linkedin.com/in/atemlefac-nkafu-bechem-179987248
+
+# 📌 Project Information
+**Program Name:** Cybersecurity at SQROCK | **Week:** 01 | **Project:** OSINT and passive reconnaisance | **Repository:** GitHub
